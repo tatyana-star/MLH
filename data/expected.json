@@ -1,4 +1,5 @@
 {
+  
   "title": "MLH trial",
   "header": "My Little Hero",
   "instruction": "Let's create your own HERO! It's super easy with our application!",
@@ -10,5 +11,21 @@
   "ageLabel": "3. How old is your Hero?",
   "storyLabel": "4. What type of story would you like to read?",
   "imageLabel": "5. Upload an image (optional)",
-  "submitText": "Create!"
+  "submitText": "Create!",
+  "storyOne": "Overcoming the Monster",
+  "storyTwo": "Rebirth",
+  "storyThree": "Quest",
+  "storyFour": "Journey and Return",
+  "storyFive": "Rags and Riches",
+  "storySix": "Tragedy",
+  "storySeven": "Comedy",
+  "storyTitle": "Two Cats And A SuperGirl(*|*)",
+  "alertName1": "Required",
+  "alertName2": "70 symbols max",
+  "trimmed0": "1",
+  "trimmedSpaces": "123123",
+  "one": "1",
+  "two": "2",
+  "nameError": "70 symbols max"
+
 }
